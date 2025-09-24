@@ -22,8 +22,6 @@ python app.py
 
 
 
-### 📄 Project_2/Heart_Disease/README.md
-
 # Project 2: Heart Disease Prediction
 
 ### Overview
@@ -48,7 +46,6 @@ python app.py
 
 
 
-### 📄 Project_3/README.md
 
 # Project 3: Simple Flask App
 
