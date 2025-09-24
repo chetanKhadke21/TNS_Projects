@@ -14,16 +14,13 @@ This project predicts equipment output in a manufacturing setup using regression
 - `requirements.txt` – Dependencies  
 
 ### How to Run
-```bash
+bash
 cd Project_1/Manufacturing
 pip install -r requirements.txt
 python app.py
 
-```markdown
 
 
-
----
 
 ### 📄 Project_2/Heart_Disease/README.md
 
@@ -43,7 +40,7 @@ This project predicts the likelihood of heart disease in patients using classifi
 - `requirement.txt` – Dependencies  
 
 ### How to Run
-```bash
+
 cd Project_2/Heart_Disease
 pip install -r requirement.txt
 python app.py
@@ -51,10 +48,8 @@ python app.py
 
 
 
----
-
 ### 📄 Project_3/README.md
-```markdown
+
 # Project 3: Simple Flask App
 
 ### Overview
@@ -64,6 +59,6 @@ This project contains a single Flask app (`app.py`). It demonstrates a lightweig
 - `app.py` – Flask app  
 
 ### How to Run
-```bash
+
 cd Project_3
 python app.py
