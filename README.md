@@ -50,7 +50,7 @@ python app.py
 # Project 3: Simple Flask App
 
 ### Overview
-This project contains a single Flask app (`app.py`). It demonstrates a lightweight application setup.
+This project contains a single Flask app (`app.py`). It demonstrates a lightweight application setup which helps to summarize the text.
 
 ### Contents
 - `app.py` – Flask app  
