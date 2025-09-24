@@ -19,12 +19,14 @@ cd Project_1/Manufacturing
 pip install -r requirements.txt
 python app.py
 
+```markdown
+
 
 
 ---
 
 ### 📄 Project_2/Heart_Disease/README.md
-```markdown
+
 # Project 2: Heart Disease Prediction
 
 ### Overview
